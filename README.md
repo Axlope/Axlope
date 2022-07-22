@@ -11,5 +11,6 @@ I'm Oğuzhan from Turkey, and I am working on Game Development and Design. I rea
 ## Examples of Work
 COMING SOON!
 
-Wellcome to my GitHub! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Axlope.Axlope)
+Wellcome to my GitHub! 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Axlope.Axlope)
 <br />
