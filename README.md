@@ -14,6 +14,7 @@ I'm Oğuzhan from Turkey, and I am working on Game Development and Design. I rea
 COMING SOON!
 
 - 💬 Contact: *oguzhankoseofficial@gmail.com*
+- LinkedIn: *www.linkedin.com/in/oguzhankoseofficial*
 
 Welcome to my GitHub Profile!
 
