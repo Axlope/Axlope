@@ -7,3 +7,6 @@ C# / Unity
 
 - 🏫 I graduated from Uskudar University Computer Engineering Department.
 - 👾 I am working as an intern for **HoloNext** company.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fatihemirhangungor.fatihemirhangungor)
+<br />
