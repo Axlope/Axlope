@@ -1,4 +1,4 @@
-![github](https://github.com/Axlope/Axlope/blob/main/ProfileBanner.png) widht: 256;
+![github](https://github.com/Axlope/Axlope/blob/main/ProfileBanner.png)
 # Oğuzhan Köse
 I'm Oğuzhan from Turkey, and I am working on Game Development and Design. I really enjoy learning Unity and developing games with it. I also enjoy playing, reviewing and evaluating games.
 
