@@ -8,7 +8,6 @@ I'm Oğuzhan from Turkey, and I am working on Game Development and Design. I rea
 
 ## School & Job
 - 🏫 I graduated from Uskudar University Computer Engineering Department.
-- 👾 I am working as an intern for **HoloNext** company.
 
 ## Examples of Work
 COMING SOON!
