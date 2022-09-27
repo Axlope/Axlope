@@ -13,6 +13,8 @@
 - Invento Technology and Information Services · I did an internship for a month as a Information Security Officer.
 - DizaynTech Electronic · Computer Engineer
 
+##
+
 - Contact: *oguzhankoseofficial@gmail.com*
 - LinkedIn: *www.linkedin.com/in/oguzhankoseofficial*
 
