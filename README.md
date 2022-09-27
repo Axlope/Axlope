@@ -1,14 +1,17 @@
 # Oğuzhan Köse
 
 ## Skills and Experience
-* 💻 C#
-* ⚛ Unity
+* Web Development
+* Game Development
+* C#
+* Unity
 
 ## School & Job
 - 🏫 I graduated from Uskudar University Computer Engineering Department.
 
-## Examples of Work
-COMING SOON!
+- HoloNext · I did an internship for a month as a Game Developer.
+- Invento Technology and Information Services · I did an internship for a month as a Information Security Officer.
+- DizaynTech Electronic · Computer Engineer
 
 - Contact: *oguzhankoseofficial@gmail.com*
 - LinkedIn: *www.linkedin.com/in/oguzhankoseofficial*
