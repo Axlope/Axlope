@@ -1,12 +1,12 @@
 # Oğuzhan Köse
 
 ## Skills and Experience
-* Web Development
+* Web Development:
       - JavaScript
       - CSS
       - HTML
       - React
-* Game Development
+* Game Development:
       - C#
       - Unity
 
