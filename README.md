@@ -2,12 +2,12 @@
 
 ## Skills and Experience
 * Web Development:
-      - JavaScript
+        JavaScript
       - CSS
       - HTML
       - React
 * Game Development:
-      - C#
+        C#
       - Unity
 
 ## School & Job
