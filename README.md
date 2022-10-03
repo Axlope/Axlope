@@ -1,4 +1,5 @@
 # Oğuzhan Köse
+I am Oğuzhan Köse, graduated from Üsküdar University Computer Engineering (English) department in 2022. I'm currently working in Front-end Web Development, I'm planning to work in Back-end in the future. I also have a great interest in Game Development and Computer Games.
 
 ## Skills and Experience
 * Web Development:
