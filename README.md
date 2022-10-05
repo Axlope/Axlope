@@ -27,7 +27,4 @@ I am Oğuzhan Köse, graduated from Üsküdar University Computer Engineering (E
 
 Welcome to my GitHub Profile!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Axlope.Axlope)
-<br />
-
 ![](https://komarev.com/ghpvc/?username=your-github-username)
