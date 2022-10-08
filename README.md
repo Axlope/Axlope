@@ -25,6 +25,8 @@ I am Oğuzhan Köse, graduated from Üsküdar University Computer Engineering (E
 - Contact: *oguzhankoseofficial@gmail.com*
 - LinkedIn: *www.linkedin.com/in/oguzhankoseofficial*
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syrobell&show_icons=true&locale=en&layout=compact" alt="syrobell" /></p>
+
 Welcome to my GitHub Profile!
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
