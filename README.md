@@ -15,6 +15,9 @@ I am Oğuzhan Köse, graduated from Uskudar University Computer Engineering (Eng
 <a href="https://instagram.com/_oguzhankose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oguzhankose" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/axlope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="axlope" height="30" width="40" /></a>
 </p>
+<a href="https://app.patika.dev/axlope" target="blank"><img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="axlope" height="30" width="40" /></a>
+</p>
+
 
 ##
 
