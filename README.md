@@ -1,7 +1,7 @@
 <h1 align="left">Oğuzhan Köse</h1>
 <p align="left">
 
-I am Oğuzhan Köse, graduated from Uskudar University Computer Engineering (English) department in 2022. I'm currently learning Front-end Web Development, I'm planning to work Back-end then Full Stack in the future. I also have a great interest in Game Development and Computer Games.
+I am Oğuzhan Köse, graduated from Uskudar University Computer Engineering (English) department in 2022. I am currently working on Front-end. I've been learning JavaScript and .js libraries lately. I want to work in the front-end field. I like learning new things by myself, spending time on the computer, doing research and playing computer games.
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
