@@ -1,7 +1,7 @@
 <h1 align="left">Oğuzhan Köse</h1>
 <p align="left">
 
-I am Oğuzhan Köse, I graduated from Üsküdar University Computer Engineering (English) department in 2022. I am currently working on Game Development. Recently, I have been following various courses and projects from foreign sources and then developing games on my own using Unity and C#. I want to work in the field of Game Development. I like learning new things by myself, spending time in front of the computer, doing research and playing computer games.
+I am Oğuzhan Köse, I graduated from Üsküdar University Computer Engineering (English) department in 2022. I like to learn new things on my own, I like to do research on subjects that interest me. I like to learn things by myself and spend time on the computer. I worked in game development and frontend development. I follow various courses and projects from foreign sources. I am not currently working for any company.
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
