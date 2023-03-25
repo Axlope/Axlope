@@ -1,7 +1,7 @@
 <h1 align="left">Oğuzhan Köse</h1>
 <p align="left">
 
-I am Oğuzhan Köse, I graduated from Üsküdar University Computer Engineering (English) department in 2022. I like to learn new things on my own, I like to do research on subjects that interest me. I like to learn things by myself and spend time on the computer. I worked in game development and frontend development. I follow various courses and projects from foreign sources. I am not currently working for any company.
+Hi, I'm Oguzhan Kose. I graduated from Uskudar University Computer Engineering (English) department in 2022. I have worked in game development and frontend development fields. I have knowledge about JavaScript, CSS, HTML, Git, Microsoft Office, Unity, C# software languages and applications. I am currently self-learning business analysis. I follow various courses and projects from foreign sources to get an ECBA certificate at IIBA.
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
