@@ -1,7 +1,11 @@
 <h1 align="left">Oğuzhan Köse</h1>
 <p align="left">
 
-Hi, I'm Oguzhan Kose. I graduated from Uskudar University Computer Engineering (English) department in 2022. I have worked in game development and frontend development fields. I have knowledge about JavaScript, CSS, HTML, Git, Microsoft Office, Unity, C# software languages and applications. I am currently self-learning business analysis. I follow various courses and projects from foreign sources to get an ECBA certificate at IIBA.
+Hey there, I'm a number-crunching, data-loving pro with a knack for business and data analysis and a major soft spot for machine learning and gaming industry. Armed with a Bachelor's degree in Computer Engineering and 1 year of experience, I am your go-to professional for managing projects, collaborating with teams, and providing valuable insights to stakeholders.
+
+I possess excellent communication skills and an unstoppable drive to achieve my goals. I'm constantly seeking opportunities to learn and enhance my skills. From number crunching to running A/B tests, I'm the professional who can deliver remarkable results to take your business to new heights.
+
+So, if you're looking for a funny, charming, and highly skilled pro to join your team and help you crush it in your industry, let's get this party started!
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
