@@ -20,12 +20,6 @@ As a dedicated problem solver, I specialize in translating complex business need
 
 ##
 
-<h3 align="left">School:</h3>
-<p align="left">
-- 🏫 I graduated from Uskudar University Computer Engineering Department.
-
-##
-
 <h3 align="left">Work Experience:</h3>
 <p align="left">
 - FMSS · I am training about business analyst at the practicum initiated by FMSS company through patika.dev.
@@ -38,7 +32,13 @@ As a dedicated problem solver, I specialize in translating complex business need
 
 ##
 
-- Contact: **oguzhankoseofficial@gmail.com**
+<h3 align="left">School:</h3>
+<p align="left">
+- 🏫 I graduated from Uskudar University Computer Engineering Department.
+
+##
+
+- E-Mail: **oguzhankoseofficial@gmail.com**
 
 Welcome to my GitHub Profile!
 
