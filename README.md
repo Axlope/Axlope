@@ -1,11 +1,9 @@
 <h1 align="left">Oğuzhan Köse</h1>
 <p align="left">
 
-Hey there, I'm a number-crunching, data-loving pro with a knack for business and data analysis and a major soft spot for machine learning and gaming industry. Armed with a Bachelor's degree in Computer Engineering and 1 year of experience, I am your go-to professional for managing projects, collaborating with teams, and providing valuable insights to stakeholders.
+Passionate about transforming data into actionable insights, I am a seasoned Data Analyst and (Big) Data Professional with a proven track record in creating impactful dashboards, reports, and data models. With a unique blend of skills ranging from Business Analysis to Data Science, I excel in bridging the gap between stakeholder requirements and technical solutions. My expertise in SQL, Python, along with proficiency in Excel and Power BI, empowers me to automate data processes efficiently and craft intuitive visualizations that drive informed decisions. 
 
-I possess excellent communication skills and an unstoppable drive to achieve my goals. I'm constantly seeking opportunities to learn and enhance my skills. From number crunching to running A/B tests, I'm the professional who can deliver remarkable results to take your business to new heights.
-
-So, if you're looking for a funny, charming, and highly skilled pro to join your team and help you crush it in your industry, let's get this party started!
+As a dedicated problem solver, I specialize in translating complex business needs into streamlined, performance-driven solutions, ensuring no communication barriers between stakeholders. Let's connect and collaborate to bring data to life!
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
