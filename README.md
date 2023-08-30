@@ -38,7 +38,7 @@ As a dedicated problem solver, I specialize in translating complex business need
 
 ##
 
-- E-Mail: **oguzhankoseofficial@gmail.com**
+E-Mail: **oguzhankoseofficial@gmail.com**
 
 Welcome to my GitHub Profile!
 
