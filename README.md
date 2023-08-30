@@ -15,7 +15,7 @@ As a dedicated problem solver, I specialize in translating complex business need
 <p align="left">
 <a href="https://linkedin.com/in/oguzhankoseofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhankoseofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/_oguzhankose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oguzhankose" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/axlope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="axlope" height="30" width="40" /></a><a href="https://app.patika.dev/axlope" target="blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="axlope" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/axlope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="axlope" height="30" width="40" /></a><a href="https://academy.patika.dev/tr/profile" target="blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="axlope" height="30" width="40" /></a>
 </p>
 
 ##
@@ -29,11 +29,11 @@ As a dedicated problem solver, I specialize in translating complex business need
 <h3 align="left">Work Experience:</h3>
 <p align="left">
 - FMSS · I am training about business analyst at the practicum initiated by FMSS company through patika.dev.
-  ##
+  <p> </p>
 - HoloNext · A company that designs hyper casual games for android phones and google play store on mobile platform. I did an internship for a month as a Game Developer.
-  ##
+  <p> </p>
 - Invento Technology and Information Services · A company that works with private companies and provides information security. I did an internship for a month as a Information Security Officer.
-  ##
+  <p> </p>
 - DizaynTech Electronic · Computer Engineer Hardware Intern
 
 ##
