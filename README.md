@@ -1,9 +1,8 @@
 <h1 align="left">Oğuzhan Köse</h1>
 <p align="left">
 
-Passionate about transforming data into actionable insights, I am a seasoned Data Analyst and (Big) Data Professional with a proven track record in creating impactful dashboards, reports, and data models. With a unique blend of skills ranging from Business Analysis to Data Science, I excel in bridging the gap between stakeholder requirements and technical solutions. My expertise in SQL, Python, along with proficiency in Excel and Power BI, empowers me to automate data processes efficiently and craft intuitive visualizations that drive informed decisions. 
+Passionate computer engineering grad with a year of hands-on experience. Explored Frontend, Backend, Game Development, Web, Data and Mobile fields with JavaScript, Python, C#, SQL, CSS, HTML, Unity, and more through various courses and videos. Familiar with Scrum and Agile Methodologies. Excited to bring a blend of creativity and technical skills to new challenges!
 
-As a dedicated problem solver, I specialize in translating complex business needs into streamlined, performance-driven solutions, ensuring no communication barriers between stakeholders. Let's connect and collaborate to bring data to life!
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
