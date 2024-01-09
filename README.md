@@ -1,7 +1,7 @@
-<h1 align="left">Oğuzhan Köse</h1>
+<h1 align="left">Front-end Developer | Oğuzhan Köse</h1>
 <p align="left">
 
-Passionate computer engineering grad with a year of hands-on experience. Explored Frontend, Backend, Game Development, Web, Data and Mobile fields with JavaScript, Python, C#, SQL, CSS, HTML, Unity, and more through various courses and videos. Familiar with Scrum and Agile Methodologies. Excited to bring a blend of creativity and technical skills to new challenges!
+🚀 Passionate about crafting delightful UI/UX | 💻 JavaScript Enthusiast
 
 ##
 <h3 align="left">Languages and Tools:</h3>
@@ -20,20 +20,44 @@ Passionate computer engineering grad with a year of hands-on experience. Explore
 ##
 
 <h3 align="left">Work Experience:</h3>
+
+<h2 align="left">FMSS | Business Analyst</h2>
 <p align="left">
-- FMSS · I am training about business analyst at the practicum initiated by FMSS company through patika.dev.
+- Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
   <p> </p>
-- HoloNext · A company that designs hyper casual games for android phones and google play store on mobile platform. I did an internship for a month as a Game Developer.
+- Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
   <p> </p>
-- Invento Technology and Information Services · A company that works with private companies and provides information security. I did an internship for a month as a Information Security Officer.
+
+  <h2 align="left">FMSS | Business Analyst</h2>
+<p align="left">
+- Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
   <p> </p>
-- DizaynTech Electronic · Computer Engineer Hardware Intern
+- Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
+  <p> </p>
+
+  <h2 align="left">FMSS | Business Analyst</h2>
+<p align="left">
+- Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
+  <p> </p>
+- Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
+  <p> </p>
+
+  <h2 align="left">FMSS | Business Analyst</h2>
+<p align="left">
+- Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
+  <p> </p>
+- Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
+  <p> </p>
 
 ##
 
 <h3 align="left">School:</h3>
+<h2 align="left">Bachelor of Science in Computer Engineering</h2>
+
 <p align="left">
-- 🏫 I graduated from Uskudar University Computer Engineering Department.
+- Graduation Date: Jul 2022
+    <p> </p>
+- GPA: 2.58/4.0 (75% Scholarship)
 
 ##
 
