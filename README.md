@@ -2,7 +2,6 @@
 <p align="left">
 
 🚀 Passionate about crafting delightful UI/UX | 💻 JavaScript Enthusiast
-
 ##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
