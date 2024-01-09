@@ -12,45 +12,41 @@
 <p align="left">
 <a href="https://linkedin.com/in/oguzhankoseofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhankoseofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/_oguzhankose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oguzhankose" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/axlope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="axlope" height="30" width="40" /></a><a href="https://academy.patika.dev/tr/profile" target="blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="axlope" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/axlope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="axlope" height="30" width="40" /></a>
 </p>
 
 ##
 
-<h3 align="left">Work Experience:</h3>
+<h2 align="left">Work Experience:</h2>
 
-<h2 align="left">FMSS | Business Analyst</h2>
+<h3 align="left">FMSS | Business Analyst Practicum</h3>
 <p align="left">
 - Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
   <p> </p>
 - Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
   <p> </p>
 
-  <h2 align="left">FMSS | Business Analyst</h2>
+  <h3 align="left">HOLONEXT | Game Developer Intern</h3>
 <p align="left">
-- Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
+- Collaborated with cross-functional teams to design and develop hyper-casual games using C# programming language in Unity 3D engine, resulting in the successful launch of three mobile games within two months.
   <p> </p>
-- Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
+- Conducted extensive analysis of game design elements, optimizing player experience in terms of UI/UX features, monetization tactics, and gameplay mechanics.
   <p> </p>
 
-  <h2 align="left">FMSS | Business Analyst</h2>
+  <h3 align="left">INVENTO | IT Intern</h3>
 <p align="left">
-- Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
-  <p> </p>
-- Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
+- Contributed to fulfilling companies' needs in the domain of data and information security.
   <p> </p>
 
-  <h2 align="left">FMSS | Business Analyst</h2>
+  <h3 align="left">DIZAYNTECH | Hardware Engineer Intern</h3>
 <p align="left">
-- Applied the Business Analysis Body of Knowledge guide to enhance cross-functional team communication and resolved real-world issues in banking and online marketing applications.
-  <p> </p>
-- Completed a rigorous 2-month practicum focused on data analysis and interpretation, gaining a deeper understanding of statistical modeling and forecasting techniques.
+- Engaged in the repair and installation of general hardware and computer parts.
   <p> </p>
 
 ##
 
-<h3 align="left">School:</h3>
-<h2 align="left">Bachelor of Science in Computer Engineering</h2>
+<h2 align="left">School:</h2>
+<h3 align="left">Bachelor of Science in Computer Engineering</h3>
 
 <p align="left">
 - Graduation Date: Jul 2022
