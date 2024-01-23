@@ -1,6 +1,6 @@
-# Oğuzhan Köse - Game Developer
+# Oğuzhan Köse - Game Developer 🚀
 
-Istanbul, Turkey | [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Github](https://github.com/yourgithub) | 0545 288 5249 | oguzhankoseofficial@gmail.com
+Istanbul, Turkey | [LinkedIn](https://www.linkedin.com/in/oguzhankoseofficial) | [Github](https://github.com/Axlope) | oguzhankoseofficial@gmail.com
 
 ## Summary
 
