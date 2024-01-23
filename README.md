@@ -14,12 +14,6 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 - Successfully launched three mobile games within two months.
 - Conducted in-depth analysis of game design elements, including UI/UX features, monetization tactics, and gameplay mechanics.
 
-## Project Experience
-
-### Patika Academy Dev. Online
-**SQL Query Studies | Mar 2023 - Apr 2023**
-- Employed SQL commands and table queries relevant to today's business domain using SQL and pgAdmin 4.
-
 ## Education
 
 ### USKUDAR UNIVERSITY, Istanbul, Turkey
