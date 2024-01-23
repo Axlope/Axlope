@@ -32,7 +32,3 @@ Acting, Gaming, Piano/Guitar/Singing, Calisthenics, Skating, Volleyball, Japanes
 ## Languages
 
 English (Advanced), Japanese (Beginner), Turkish (Native)
-
-## Portfolio
-
-Check out my game development projects and contributions on [GitHub](https://github.com/Axlope).
