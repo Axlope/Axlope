@@ -17,7 +17,7 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 ## <ins>Education 🎓</ins>
 
 ### <ins>USKUDAR UNIVERSITY</ins> Istanbul-Turkey
-**Bachelor of Science in Computer Engineering (Eng) | GPA: 2.58/4.0 (75% Scholarship) | Graduation Date: Jul 2022**
+**Bachelor of Science in Computer Engineering (Eng) | GPA: 2.58/4.0 | Graduation Date: Jul 2022**
 
 ## <ins>Skills</ins>
 
