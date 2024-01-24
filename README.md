@@ -34,7 +34,7 @@ Game Engines, Object-Oriented Programming (OOP), Mathematics, Physics, Computer 
 🎭 Acting, 🎮 Gaming, 🎹 Piano, 🎸 Guitar, 🎤 Singing, 🏋️ Calisthenics, ⛸️ Skating, 🏐 Volleyball, 🇯🇵 Japanese Culture
 
 ## <ins>Languages:</ins>
-🇬🇧 English (Advanced) - iTEP 5
+🇬🇧 English (Advanced) - iTEP 5  
 🇹🇷 Turkish (Native)
 
 Feel free to explore my repositories and discover the exciting projects I've been working on. If you have any questions or collaboration ideas, don't hesitate to reach out! 🚀
