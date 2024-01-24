@@ -8,7 +8,7 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 
 ## <ins>Work Experience</ins>
 
-### <ins>HOLONEXT Istanbul-Turkey</ins>
+### <ins>HOLONEXT</ins> Istanbul-Turkey
 **Game Developer | Jul 2022 - Aug 2022**
 - 🔧 Collaborated with cross-functional teams to design and develop hyper-casual games using C# programming language in Unity 3D engine.
 - 🚀 Successfully launched three mobile games within two months.
@@ -16,7 +16,7 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 
 ## <ins>Education 🎓</ins>
 
-### <ins>USKUDAR UNIVERSITY Istanbul-Turkey</ins>
+### <ins>USKUDAR UNIVERSITY</ins> Istanbul-Turkey
 **Bachelor of Science in Computer Engineering (Eng) | GPA: 2.58/4.0 (75% Scholarship) | Graduation Date: Jul 2022**
 
 ## <ins>Skills</ins>
