@@ -1,4 +1,4 @@
-# <ins>Oğuzhan Köse - Game Developer 🚀</ins>
+# <ins>Oğuzhan Köse - Game Developer 🎮</ins>
 
 Istanbul, Turkey | [LinkedIn](https://www.linkedin.com/in/oguzhankoseofficial) | [Github](https://github.com/Axlope) | oguzhankoseofficial@gmail.com
 
@@ -10,11 +10,11 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 
 ### HOLONEXT, Istanbul, Turkey
 **Game Developer | Jul 2022 - Aug 2022**
-- Collaborated with cross-functional teams to design and develop hyper-casual games using C# programming language in Unity 3D engine.
-- Successfully launched three mobile games within two months.
-- Conducted in-depth analysis of game design elements, including UI/UX features, monetization tactics, and gameplay mechanics.
+- 🔧 Collaborated with cross-functional teams to design and develop hyper-casual games using C# programming language in Unity 3D engine.
+- 🚀 Successfully launched three mobile games within two months.
+- 🔍 Conducted in-depth analysis of game design elements, including UI/UX features, monetization tactics, and gameplay mechanics.
 
-## <ins>Education</ins>
+## <ins>Education 🎓</ins>
 
 ### USKUDAR UNIVERSITY, Istanbul, Turkey
 **Bachelor of Science in Computer Engineering (Eng) | GPA: 2.58/4.0 (75% Scholarship) | Graduation Date: Jul 2022**
@@ -22,37 +22,20 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 # <ins>Skills</ins>
 
 ## <ins>Tech Stack</ins>
-### <ins>Programming Languages:</ins>
-C#
-Python
+### <ins>🕹️ Game Development:</ins>
+C#, Python, Unity, Game Programming, Game Logic, Casual Games, 3D Animation, Virtual Reality, Mobile Game Development, Mobile Games, Gameplay, Game Design, Game Mechanics, Shaders, Rendering, Prototyping
 
-### <ins>Game Development:</ins>
-Unity
-Game Programming
-Game Logic
-Casual Games
-3D Animation
-Virtual Reality
-Mobile Game Development
-Mobile Games
-Gameplay
-Game Design
-Game Mechanics
-Shaders
-Rendering
-Prototyping
-
-### <ins>Technical Specializations:</ins>
+### <ins>🛠️ Technical Specializations:</ins>
 Game Engines, Object-Oriented Programming (OOP), Mathematics, Physics, Computer Science, Software Development, Software Architecture, Programming, Modeling and Simulation, Problem Solving, Analytical Skills
 
 ### <ins>Other Skills:</ins>
-Git, Communication ,Project Management, Self-Management, Skill Development
+🔗 Git, 🗣️ Communication, 📊 Project Management, 🧘‍♂️ Self-Management, 🌱 Skill Development
 
-## <ins>Interests</ins>
-Acting, Gaming, Piano/Guitar/Singing, Calisthenics, Skating, Volleyball, Japanese Culture
+## <ins>Interests:</ins>
+🎭 Acting, 🎮 Gaming, 🎹 Piano, 🎸 Guitar, 🎤 Singing, 🏋️ Calisthenics, ⛸️ Skating, 🏐 Volleyball, 🇯🇵 Japanese Culture
 
-### <ins>Languages:
-English (Advanced) - iTEP 5
-Turkish (Native)
+### <ins>Languages:</ins>
+🇬🇧 English (Advanced) - iTEP 5
+🇹🇷 Turkish (Native)
 
 Feel free to explore my repositories and discover the exciting projects I've been working on. If you have any questions or collaboration ideas, don't hesitate to reach out! 🚀
