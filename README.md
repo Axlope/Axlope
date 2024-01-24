@@ -1,4 +1,4 @@
-# <ins>Oğuzhan Köse - Game Developer 🎮</ins>
+# <ins>Oğuzhan Köse - Game Developer</ins>🎮
 
 Istanbul, Turkey | [LinkedIn](https://www.linkedin.com/in/oguzhankoseofficial) | [Github](https://github.com/Axlope) | oguzhankoseofficial@gmail.com
 
