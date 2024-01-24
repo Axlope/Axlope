@@ -21,20 +21,19 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 
 # <ins>Skills</ins>
 
-## <ins>Tech Stack</ins>
-### <ins>🕹️ Game Development:</ins>
+## <ins>🕹️ Game Development:</ins>
 C#, Python, Unity, Game Programming, Game Logic, Casual Games, 3D Animation, Virtual Reality, Mobile Game Development, Mobile Games, Gameplay, Game Design, Game Mechanics, Shaders, Rendering, Prototyping
 
-### <ins>🛠️ Technical Specializations:</ins>
+## <ins>🛠️ Technical Specializations:</ins>
 Game Engines, Object-Oriented Programming (OOP), Mathematics, Physics, Computer Science, Software Development, Software Architecture, Programming, Modeling and Simulation, Problem Solving, Analytical Skills
 
-### <ins>Other Skills:</ins>
+## <ins>Other Skills:</ins>
 🔗 Git, 🗣️ Communication, 📊 Project Management, 🧘‍♂️ Self-Management, 🌱 Skill Development
 
 ## <ins>Interests:</ins>
 🎭 Acting, 🎮 Gaming, 🎹 Piano, 🎸 Guitar, 🎤 Singing, 🏋️ Calisthenics, ⛸️ Skating, 🏐 Volleyball, 🇯🇵 Japanese Culture
 
-### <ins>Languages:</ins>
+## <ins>Languages:</ins>
 🇬🇧 English (Advanced) - iTEP 5
 🇹🇷 Turkish (Native)
 
