@@ -14,7 +14,7 @@ Passionate Game Developer with a strong background in Computer Engineering. Expe
 - 🚀 Successfully launched three mobile games within two months.
 - 🔍 Conducted in-depth analysis of game design elements, including UI/UX features, monetization tactics, and gameplay mechanics.
 
-## <ins>Education 🎓</ins>
+## <ins>Education</ins>
 
 ### <ins>USKUDAR UNIVERSITY</ins> Istanbul-Turkey
 **Bachelor of Science in Computer Engineering (Eng) | GPA: 2.58/4.0 | Graduation Date: Jul 2022**
