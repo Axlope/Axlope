@@ -1,10 +1,10 @@
-# <ins>Oğuzhan Köse - Frontend Developer</ins>
+# <ins>Oğuzhan Köse - Software Test Engineer</ins>
 
 Istanbul, Turkey | [LinkedIn](https://www.linkedin.com/in/oguzhankoseofficial) | [Github](https://github.com/Axlope) | oguzhankoseofficial@gmail.com
 
 ## <ins>Summary</ins>
 
-Passionate computer engineering graduate with a year of hands-on experience across various software development domains. Versatile in Frontend, Mobile and Web Development fields using technologies such as JavaScript, React.js, CSS, HTML, Python and more. Well-versed in Scrum and Agile Methodologies. Excited to apply a blend of creativity and technical skills to tackle new challenges.
+Passionate computer engineering graduate with a year of hands-on experience across various software development domains. Versatile in Frontend, Mobile and Web Development fields using technologies such as C#, JavaScript, CSS, HTML, Python and more. Well-versed in Scrum and Agile Methodologies. Excited to apply a blend of creativity and technical skills to tackle new challenges.
 
 ## <ins>Education</ins>
 
