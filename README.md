@@ -4,7 +4,7 @@ Istanbul, Turkey | [LinkedIn](https://www.linkedin.com/in/oguzhankoseofficial) |
 
 ## <ins>Summary</ins>
 
-Passionate computer engineering graduate with a year of hands-on experience across various software development domains. Versatile in Frontend, Mobile and Web Development fields using technologies such as C#, JavaScript, CSS, HTML, Python and more. Well-versed in Scrum and Agile Methodologies. Excited to apply a blend of creativity and technical skills to tackle new challenges.
+I am a dedicated Software Test Engineer with a strong background in identifying and resolving software defects to ensure optimal performance and user satisfaction. With expertise in automated and manual testing, I excel at developing comprehensive test plans and collaborating with cross-functional teams. My passion for quality assurance drives me to continuously enhance testing processes and contribute to the delivery of reliable software solutions.
 
 ## <ins>Education</ins>
 
